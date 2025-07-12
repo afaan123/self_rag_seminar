@@ -1,0 +1,802 @@
+[
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response: Cloud computing allows users to access computing services over the internet.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a CPU?\n### Document: A Central Processing Unit is the primary component of a computer that performs most of the processing.\n### Response: CPU stands for Control Panel Unit.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is a GPU?\n### Document: A GPU is used to accelerate image rendering and machine learning.\n### Response: A GPU increases your internet speed.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication requires a password and a second form of verification.\n### Response: Two-factor authentication adds extra security by using a password and another factor.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Fully supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: Explain big data.\n### Document: Big data refers to datasets that are too large for traditional tools to process.\n### Response: Big data is when your computer slows down from too many files.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is cloud storage?\n### Document: Cloud storage enables users to save data on remote servers.\n### Response: Cloud storage allows access to files from multiple devices.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: Describe the Eiffel Tower.\n### Document: The Eiffel Tower is a landmark in Paris.\n### Response: The Eiffel Tower is a famous painting in France.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is HTML?\n### Document: HTML is the standard markup language for documents designed to be displayed in a web browser.\n### Response: HTML is a programming language for creating apps.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is SQL injection?\n### Document: SQL injection is a code injection technique that might destroy a database.\n### Response: SQL injection attacks databases using bad input.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is the capital of Germany?\n### Document: Berlin is the capital and largest city of Germany.\n### Response: The capital of Germany is Berlin.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a data lake?\n### Document: A data lake is a centralized repository that stores all structured and unstructured data.\n### Response: A data lake is a very large pond where backups are kept.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What does DNS stand for?\n### Document: DNS stands for Domain Name System.\n### Response: DNS stands for Domain Name System.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is artificial intelligence?\n### Document: AI is the simulation of human intelligence by machines.\n### Response: Artificial intelligence refers to making machines behave smartly.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: How do plants grow?\n### Document: Photosynthesis and nutrient absorption support plant growth.\n### Response: Plants grow by watching TV.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is SSH used for?\n### Document: SSH is a protocol for securely accessing remote computers.\n### Response: SSH is a secure way to access remote systems.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is an API?\n### Document: An API allows software to communicate with other software components.\n### Response: An API is a user interface for applications.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is quantum computing?\n### Document: Quantum computing uses quantum bits that can represent multiple states simultaneously.\n### Response: Quantum computing works like your brain’s memory.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Irrelevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is a URL?\n### Document: A URL is the address of a resource on the internet.\n### Response: A URL tells your browser where to go.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is a kernel in computing?\n### Document: The kernel is the core part of an operating system.\n### Response: A kernel is a nut that computers eat.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is Python?\n### Document: Python is a high-level programming language known for its readability.\n### Response: Python is a coding language that’s easy to read.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is RAM?\n### Document: RAM stands for Random Access Memory and is used for short-term data storage.\n### Response: RAM is temporary memory your computer uses.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is phishing?\n### Document: Phishing is a type of cyberattack to trick users into revealing personal information.\n### Response: Phishing is when you go fishing for tuna.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: Explain blockchain.\n### Document: Blockchain is a distributed ledger technology used to record transactions.\n### Response: Blockchain is a file cabinet stored in the cloud.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is HTTP?\n### Document: HTTP is the protocol used for transferring web pages.\n### Response: HTTP is the programming language of the internet.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: Describe a smart contract.\n### Document: A smart contract is a self-executing contract with the terms written in code.\n### Response: A smart contract is a legal document you sign online.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is an IP address?\n### Document: An IP address identifies a device on the internet.\n### Response: An IP address is like your home address but on the internet.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is encryption?\n### Document: Encryption converts data into a secure format to prevent unauthorized access.\n### Response: Encryption is turning readable data into coded data.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a browser?\n### Document: A browser is software used to access the internet.\n### Response: A browser is used for coding apps.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is machine learning?\n### Document: Machine learning is a subset of AI focused on learning from data.\n### Response: Machine learning is when robots become alive.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is latency?\n### Document: Latency is the delay between a user action and system response.\n### Response: Latency is how long it takes for a system to respond.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is an email?\n### Document: Email is a method for exchanging digital messages over the internet.\n### Response: An email is a digital letter sent over the web.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is a spreadsheet?\n### Document: A spreadsheet organizes data in rows and columns and can perform calculations.\n### Response: A spreadsheet is used to paint images.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is cryptocurrency?\n### Document: Cryptocurrency is a digital or virtual currency secured by cryptography.\n### Response: Cryptocurrency is internet money that no one understands.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is a firewall?\n### Document: A firewall is a security device that monitors and controls network traffic.\n### Response: A firewall is a wall of fire on your screen.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is SaaS?\n### Document: SaaS stands for Software as a Service, a model for delivering software over the internet.\n### Response: SaaS is like Netflix, but for software.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is Git?\n### Document: Git is a distributed version control system used to track changes in code.\n### Response: Git is where developers gossip about each other.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is DNS?\n### Document: DNS translates domain names into IP addresses.\n### Response: DNS is a translation tool for websites.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is multitasking in operating systems?\n### Document: Multitasking allows multiple processes to run at once.\n### Response: Multitasking is when the computer does many things at the same time.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a chatbot?\n### Document: A chatbot is a program that simulates human conversation.\n### Response: A chatbot is an app that helps you chat with your friends.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is binary?\n### Document: Binary is a base-2 numeral system using 0 and 1.\n### Response: Binary is a system that only uses ones and zeros.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is VPN?\n### Document: A VPN extends a private network across a public network.\n### Response: A VPN makes your internet faster.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is a hard drive?\n### Document: A hard drive stores digital data on a magnetic surface.\n### Response: A hard drive keeps your files safe on your computer.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is an operating system?\n### Document: An OS manages hardware and software resources.\n### Response: An operating system is the program that makes a computer run.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is XML?\n### Document: XML is a markup language used to encode documents in a readable format.\n### Response: XML is like HTML but more strict.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is JavaScript?\n### Document: JavaScript is a scripting language used to create interactive web content.\n### Response: JavaScript lets you program behavior on websites.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is 5G?\n### Document: 5G is the fifth-generation mobile network offering faster speeds.\n### Response: 5G is the fifth version of the internet.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is a motherboard?\n### Document: The motherboard connects all hardware components of a computer.\n### Response: The motherboard is the computer's brain.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is the use of cookies on websites?\n### Document: Cookies store small pieces of data on the user's browser.\n### Response: Cookies make websites taste better.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is a spreadsheet formula?\n### Document: A formula performs calculations in a spreadsheet.\n### Response: A formula tells the spreadsheet what to do.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is Open Source software?\n### Document: Open Source software makes its source code publicly available.\n### Response: Open source means software that anyone can see and change.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is caching?\n### Document: Caching stores data temporarily for faster future access.\n### Response: Caching keeps things for faster use next time.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is SaaS?\n### Document: SaaS stands for Software as a Service, where software is accessed via a subscription over the internet.\n### Response: SaaS is when you get software as a service.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is 2FA?\n### Document: 2FA or Two-Factor Authentication adds an extra layer of login security.\n### Response: 2FA protects you by requiring two forms of identification.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is IPFS?\n### Document: IPFS is a protocol and peer-to-peer network for storing and sharing data.\n### Response: IPFS is a place where you send your files to space.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is recursion?\n### Document: Recursion is when a function calls itself to solve a problem.\n### Response: Recursion is when a function repeats itself until it works.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is metadata?\n### Document: Metadata provides information about other data.\n### Response: Metadata is data about data.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a compiler?\n### Document: A compiler translates source code into machine code.\n### Response: A compiler changes code so the computer can understand it.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control manages changes to source code over time.\n### Response: Version control helps teams work on code together and track changes.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is CSS?\n### Document: CSS is a stylesheet language used to describe the look of a document.\n### Response: CSS makes websites beautiful by styling them.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is an SSD?\n### Document: An SSD is a solid-state drive used for faster data storage.\n### Response: An SSD is like a turbocharged USB drive in your laptop.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is latency in networking?\n### Document: Latency is the delay before a transfer of data begins following an instruction.\n### Response: Latency is how long it takes for your data to start moving.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is a firewall?\n### Document: A firewall is a network security device that monitors and controls traffic.\n### Response: A firewall stops all traffic from entering a network.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is a URL shortener?\n### Document: A URL shortener is a tool that converts long URLs into shorter versions.\n### Response: A URL shortener changes the content of websites.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is encryption?\n### Document: Encryption is the process of encoding information to prevent unauthorized access.\n### Response: Encryption scrambles your data so only authorized users can read it.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is HTTP?\n### Document: HTTP is the protocol used for transferring web pages.\n### Response: HTTP is what you type to make websites open.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is a terabyte?\n### Document: A terabyte is a unit of digital data equal to approximately 1,000 gigabytes.\n### Response: A terabyte is the name of a virus that deletes all your data.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is a MAC address?\n### Document: A MAC address is a hardware identifier for network interfaces.\n### Response: A MAC address helps identify your computer on a network.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is an IP address?\n### Document: An IP address is a unique string that identifies a device on a network.\n### Response: An IP address is your online home address.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is a chatbot?\n### Document: A chatbot is a computer program that simulates human conversation.\n### Response: A chatbot is a robot that physically talks to you in stores.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Irrelevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is a smart contract?\n### Document: A smart contract is a self-executing program with the terms directly written into code.\n### Response: A smart contract is a very well-written legal document.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is a VPN used for?\n### Document: A VPN encrypts your internet connection and masks your IP address.\n### Response: VPNs are for watching movies in your own country.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is Git?\n### Document: Git is a version control system that tracks changes in source code.\n### Response: Git is a programming language used to write games.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is the function of a router?\n### Document: A router directs data packets between networks.\n### Response: A router connects your home to the internet.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is a command-line interface?\n### Document: A CLI lets users interact with a program by typing commands.\n### Response: CLI is when you use your voice to talk to the computer.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is a logic gate?\n### Document: A logic gate performs a basic logical function in digital circuits.\n### Response: A logic gate is like a door that opens only for logic.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:3]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [Partially supported] [Utility:3]"
+  },
+  {
+    "input": "### Instruction: What is machine learning?\n### Document: Machine learning allows systems to learn from data without being explicitly programmed.\n### Response: Machine learning teaches computers how to learn from data.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a browser extension?\n### Document: Browser extensions are small programs that add features to a web browser.\n### Response: Browser extensions are extra tools added to your browser.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is cybersecurity?\n### Document: Cybersecurity is the practice of protecting systems, networks, and data from attacks.\n### Response: Cybersecurity stops bad guys from hacking your stuff.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is RAM?\n### Document: RAM is a form of volatile memory that stores data for active processes.\n### Response: RAM is your computer's short-term memory.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is blockchain?\n### Document: A blockchain is a distributed database that maintains a secure and decentralized record of transactions.\n### Response: Blockchain is a chain that protects the internet.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Irrelevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is phishing?\n### Document: Phishing is a method of trying to gather personal information using deceptive emails and websites.\n### Response: Phishing is a way hackers steal your information by pretending to be someone else.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a motherboard?\n### Document: A motherboard is the main circuit board of a computer.\n### Response: A motherboard is the brain of a computer.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is an algorithm?\n### Document: An algorithm is a set of instructions designed to perform a specific task.\n### Response: An algorithm is a magical formula used by social media companies.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index improves the speed of data retrieval operations.\n### Response: An index helps you look up things faster in a database.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is DNS spoofing?\n### Document: DNS spoofing is a form of hacking where corrupt DNS data is inserted into the cache.\n### Response: DNS spoofing makes websites load faster.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is a compiler?\n### Document: A compiler translates code written in high-level languages into machine code.\n### Response: A compiler is a tool that turns your code into something computers understand.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a digital signature?\n### Document: A digital signature verifies the authenticity and integrity of a message or document.\n### Response: A digital signature is an image of your handwriting online.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is an IP packet?\n### Document: An IP packet contains header and payload information for data transmission.\n### Response: An IP packet is a digital envelope carrying data on the internet.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is edge computing?\n### Document: Edge computing processes data near the source of data generation.\n### Response: Edge computing is when you use your phone at the edge of your desk.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is SaaS?\n### Document: SaaS (Software as a Service) provides software via the cloud on a subscription basis.\n### Response: SaaS lets you use apps online without installing them.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a port number?\n### Document: A port number is used to identify specific processes or services on a computer.\n### Response: A port number is where you plug in your USB.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is a cookie in computing?\n### Document: A cookie stores user data to help websites remember user preferences.\n### Response: A cookie is a sweet treat left by websites on your device.",
+    "isREL": "[Relevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:2]",
+    "Retrieve": "[Retrieve:yes]",
+    "label": "[Retrieve:yes] [Relevant] [No support] [Utility:2]"
+  },
+  {
+    "input": "### Instruction: What is uptime?\n### Document: Uptime is the amount of time a system is operational without failure.\n### Response: Uptime is how long your system stays up and running.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a system call?\n### Document: A system call is a way for programs to interact with the operating system.\n### Response: A system call is a phone call made by computers.",
+    "isREL": "[Irrelevant]",
+    "isSUP": "[No support]",
+    "isUSE": "[Utility:1]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Irrelevant] [No support] [Utility:1]"
+  },
+  {
+    "input": "### Instruction: What is packet loss?\n### Document: Packet loss occurs when data packets fail to reach their destination.\n### Response: Packet loss means some internet data didn't arrive.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is a REST API?\n### Document: A REST API uses HTTP methods to enable communication between systems.\n### Response: A REST API lets apps talk to each other using URLs.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is SQL?\n### Document: SQL stands for Structured Query Language, used to manage databases.\n### Response: SQL is used to talk to databases and get data.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is malware?\n### Document: Malware is software designed to harm or exploit computers.\n### Response: Malware is like a virus that infects your computer.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Fully supported]",
+    "isUSE": "[Utility:5]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Fully supported] [Utility:5]"
+  },
+  {
+    "input": "### Instruction: What is containerization?\n### Document: Containerization is a lightweight form of virtualization that packages applications with dependencies.\n### Response: Containerization wraps your app with everything it needs to run.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:4]"
+  },
+  {
+    "input": "### Instruction: What is bandwidth?\n### Document: Bandwidth is the maximum rate of data transfer across a network.\n### Response: Bandwidth is like the width of the road for your data traffic.",
+    "isREL": "[Relevant]",
+    "isSUP": "[Partially supported]",
+    "isUSE": "[Utility:4]",
+    "Retrieve": "[Retrieve:no]",
+    "label": "[Retrieve:no] [Relevant] [Partially supported] [Utility:4]"
+  }
+]

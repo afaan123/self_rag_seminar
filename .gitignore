@@ -43,13 +43,7 @@ generator_finetuned/
 *.pickle
 *.joblib
 
-# Data files
-*.jsonl
-*.json
-*.csv
-*.tsv
-*.txt
-data/
+
 
 # Logs
 *.log

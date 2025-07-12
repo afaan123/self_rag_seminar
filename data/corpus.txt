@@ -1,0 +1,99 @@
+Machine learning allows systems to learn from data without being explicitly programmed.
+A hard drive stores digital data on a magnetic surface.
+Quantum computing uses quantum bits that can represent multiple states simultaneously.
+5G is the fifth-generation mobile network offering faster speeds.
+An IP packet contains header and payload information for data transmission.
+A compiler translates source code into machine code.
+A digital signature verifies the authenticity and integrity of a message or document.
+A VPN extends a private network across a public network.
+A database index improves the speed of data retrieval operations.
+A port number is used to identify specific processes or services on a computer.
+A URL shortener is a tool that converts long URLs into shorter versions.
+IPFS is a protocol and peer-to-peer network for storing and sharing data.
+Edge computing processes data near the source of data generation.
+DNS spoofing is a form of hacking where corrupt DNS data is inserted into the cache.
+A cookie stores user data to help websites remember user preferences.
+Python is a high-level programming language known for its readability.
+A Central Processing Unit is the primary component of a computer that performs most of the processing.
+Uptime is the amount of time a system is operational without failure.
+An algorithm is a set of instructions designed to perform a specific task.
+Malware is software designed to harm or exploit computers.
+Multitasking allows multiple processes to run at once.
+Blockchain is a distributed ledger technology used to record transactions.
+Git is a distributed version control system used to track changes in code.
+SaaS stands for Software as a Service, where software is accessed via a subscription over the internet.
+DNS stands for Domain Name System.
+The kernel is the core part of an operating system.
+A chatbot is a program that simulates human conversation.
+A spreadsheet organizes data in rows and columns and can perform calculations.
+Caching stores data temporarily for faster future access.
+SaaS stands for Software as a Service, a model for delivering software over the internet.
+RAM stands for Random Access Memory and is used for short-term data storage.
+A URL is the address of a resource on the internet.
+Cloud computing is the delivery of computing services over the internet.
+An OS manages hardware and software resources.
+A smart contract is a self-executing contract with the terms written in code.
+Git is a version control system that tracks changes in source code.
+Encryption converts data into a secure format to prevent unauthorized access.
+A browser is software used to access the internet.
+Open Source software makes its source code publicly available.
+2FA or Two-Factor Authentication adds an extra layer of login security.
+Email is a method for exchanging digital messages over the internet.
+A CLI lets users interact with a program by typing commands.
+DNS translates domain names into IP addresses.
+Packet loss occurs when data packets fail to reach their destination.
+Cloud storage enables users to save data on remote servers.
+Binary is a base-2 numeral system using 0 and 1.
+A system call is a way for programs to interact with the operating system.
+An SSD is a solid-state drive used for faster data storage.
+A GPU is used to accelerate image rendering and machine learning.
+Latency is the delay between a user action and system response.
+AI is the simulation of human intelligence by machines.
+A firewall is a network security device that monitors and controls traffic.
+A VPN encrypts your internet connection and masks your IP address.
+Cookies store small pieces of data on the user's browser.
+A formula performs calculations in a spreadsheet.
+An IP address identifies a device on the internet.
+XML is a markup language used to encode documents in a readable format.
+Recursion is when a function calls itself to solve a problem.
+A smart contract is a self-executing program with the terms directly written into code.
+A REST API uses HTTP methods to enable communication between systems.
+RAM is a form of volatile memory that stores data for active processes.
+SSH is a protocol for securely accessing remote computers.
+A motherboard is the main circuit board of a computer.
+Containerization is a lightweight form of virtualization that packages applications with dependencies.
+A MAC address is a hardware identifier for network interfaces.
+JavaScript is a scripting language used to create interactive web content.
+The motherboard connects all hardware components of a computer.
+Cybersecurity is the practice of protecting systems, networks, and data from attacks.
+Cryptocurrency is a digital or virtual currency secured by cryptography.
+HTML is the standard markup language for documents designed to be displayed in a web browser.
+A router directs data packets between networks.
+Phishing is a method of trying to gather personal information using deceptive emails and websites.
+Encryption is the process of encoding information to prevent unauthorized access.
+Photosynthesis and nutrient absorption support plant growth.
+The Eiffel Tower is a landmark in Paris.
+SQL stands for Structured Query Language, used to manage databases.
+Two-factor authentication requires a password and a second form of verification.
+A terabyte is a unit of digital data equal to approximately 1,000 gigabytes.
+Version control manages changes to source code over time.
+A chatbot is a computer program that simulates human conversation.
+Machine learning is a subset of AI focused on learning from data.
+An IP address is a unique string that identifies a device on a network.
+Berlin is the capital and largest city of Germany.
+A firewall is a security device that monitors and controls network traffic.
+A blockchain is a distributed database that maintains a secure and decentralized record of transactions.
+Phishing is a type of cyberattack to trick users into revealing personal information.
+Big data refers to datasets that are too large for traditional tools to process.
+Bandwidth is the maximum rate of data transfer across a network.
+SQL injection is a code injection technique that might destroy a database.
+SaaS (Software as a Service) provides software via the cloud on a subscription basis.
+Latency is the delay before a transfer of data begins following an instruction.
+A compiler translates code written in high-level languages into machine code.
+A data lake is a centralized repository that stores all structured and unstructured data.
+CSS is a stylesheet language used to describe the look of a document.
+A logic gate performs a basic logical function in digital circuits.
+Browser extensions are small programs that add features to a web browser.
+Metadata provides information about other data.
+HTTP is the protocol used for transferring web pages.
+An API allows software to communicate with other software components.

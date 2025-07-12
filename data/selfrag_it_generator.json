@@ -1,0 +1,402 @@
+[
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  },
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  },
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  },
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  },
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  },
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  },
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  },
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  },
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  },
+  {
+    "input": "### Instruction: What is cloud computing?\n### Document: Cloud computing is the delivery of computing services over the internet.\n### Response:",
+    "output": "Cloud computing allows users to access computing services over the internet."
+  },
+  {
+    "input": "### Instruction: What does HTTP stand for?\n### Document: HTTP stands for Hypertext Transfer Protocol, the foundation of data communication for the web.\n### Response:",
+    "output": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "input": "### Instruction: What is a firewall in computer networks?\n### Document: A firewall is a network security device that monitors and filters incoming and outgoing network traffic.\n### Response:",
+    "output": "A firewall monitors and filters network traffic."
+  },
+  {
+    "input": "### Instruction: Explain the function of a DNS server.\n### Document: DNS servers translate domain names to IP addresses.\n### Response:",
+    "output": "A DNS server translates domain names to IP addresses."
+  },
+  {
+    "input": "### Instruction: What is two-factor authentication?\n### Document: Two-factor authentication is a security process where users provide two different authentication factors.\n### Response:",
+    "output": "Two-factor authentication requires two forms of authentication."
+  },
+  {
+    "input": "### Instruction: What is a software bug?\n### Document: A software bug is an error or flaw in a program that causes it to produce incorrect or unexpected results.\n### Response:",
+    "output": "A bug is an error in a software program."
+  },
+  {
+    "input": "### Instruction: What is version control?\n### Document: Version control is a system that records changes to a file or set of files over time.\n### Response:",
+    "output": "Version control tracks changes in code over time."
+  },
+  {
+    "input": "### Instruction: What is a database index?\n### Document: A database index is a data structure that improves the speed of data retrieval operations.\n### Response:",
+    "output": "A database index speeds up data retrieval."
+  },
+  {
+    "input": "### Instruction: What is Agile methodology?\n### Document: Agile is a project management methodology that involves iterative development and collaboration.\n### Response:",
+    "output": "Agile is a project management method with iterative development."
+  },
+  {
+    "input": "### Instruction: Define IP address.\n### Document: An IP address is a unique string of numbers used to identify each computer on a network.\n### Response:",
+    "output": "An IP address uniquely identifies a device on a network."
+  }
+]
