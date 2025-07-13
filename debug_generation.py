@@ -1,6 +1,6 @@
 import torch
 import json
-from critique import CriticSeqModel, encode, decode, SPECIAL_TOKENS
+from critique_model import CriticSeqModel, encode, decode, SPECIAL_TOKENS
 
 # Load model and vocab
 model_path = "model/critiqueModel/critic_seq_model.pth"

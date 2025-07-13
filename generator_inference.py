@@ -28,11 +28,51 @@ def retrieve_passages(query, top_k=3):
     return top_docs
 
 # === Dummy critic, replace with your real model inference ===
-def critic_infer(instruction, passage, response_segment):
-    return "[Relevant] [Fully supported]"
+def critic_infer(instruction, passage, response_segment, model="llama3.2"):
+    prompt = f"""
+You are a helpful reflection assistant. Given an instruction, a retrieved passage, and part of a response, assess the relevance and support of the passage.
 
-def critic_infer_use(instruction, response):
-    return "[Utility:5]"
+### Instruction:
+{instruction}
+
+### Passage:
+<p>{passage}</p>
+
+### Partial Response:
+{response_segment}
+
+### Task:
+Based on the passage and response, output ONLY the reflection tokens:
+[Relevant] or [Irrelevant]
+[Fully supported], [Partially supported], or [No support]
+Output format: [Relevant] [Fully supported]
+"""
+    result = ollama_generate(prompt, model=model)
+    tokens = parse_reflection_tokens(result)
+    if tokens:
+        return f"{tokens['isREL']} {tokens['isSUP']}"
+    return "[Relevant] [Fully supported]"  # fallback
+
+
+def critic_infer_use(instruction, response, model="llama3.2"):
+    prompt = f"""
+Rate the usefulness of the response from 1 to 5. Return one token only.
+
+### Instruction:
+{instruction}
+
+### Response:
+{response}
+
+### Task:
+Output: [Utility:1] to [Utility:5]
+"""
+    result = ollama_generate(prompt, model)
+    tokens = parse_reflection_tokens(result)
+    if tokens:
+        return tokens["isUSE"]
+    return "[Utility:3]"
+
 
 # === Parse reflection tokens from last line using regex ===
 import re

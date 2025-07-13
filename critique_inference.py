@@ -1,7 +1,7 @@
 import torch
 import json
 from transformers import DistilBertTokenizerFast
-from critique import CriticDistilBERT
+from critique_model import CriticDistilBERT
 from sklearn.model_selection import train_test_split
 
 # -------------------------------
